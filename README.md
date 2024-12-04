@@ -108,7 +108,7 @@
 - Contributed to the styling of the front end
 - Helped in writing the README file for the web app
 
-**Meet Hariyani**
+**Nilansh Sharma**
 - Created different views for different roles/users
 - Worked on developing the final rendered HTML pages for the web application
 
